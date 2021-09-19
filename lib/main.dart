@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application/login/home2.dart';
 import 'package:flutter_application/login/home3.dart';
-import 'package:flutter_application/test/test5.dart';
 
 void main() {
   runApp(MyApp());
@@ -45,7 +43,7 @@ class MyApp extends StatelessWidget {
       // home: LoginPage(),
       // home: Home2(),
       home: Home3(),
-     //home: Test5(),
+      //home: Test5(),
     );
   }
 }
